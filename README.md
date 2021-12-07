@@ -15,8 +15,9 @@
 		- определить другие особенности взаимодействия с клиентами.
 
 **Используемые библиотеки**
-Pandas
-Numpy
-Matplotlib 
-Seaborn
-Sklearn
+
+	Pandas
+	Numpy
+	Matplotlib 
+	Seaborn
+	Sklearn
